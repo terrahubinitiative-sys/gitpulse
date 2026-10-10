@@ -30,7 +30,7 @@
 ## 📦 Installation
 
 ### Global Installation (Local Link)
-Clone or download this repository, then link it globally:
+Clone this repository, then link it globally:
 
 ```bash
 git clone [https://github.com/terrahubinitiative-sys/gitpulse.git](https://github.com/terrahubinitiative-sys/gitpulse.git)
