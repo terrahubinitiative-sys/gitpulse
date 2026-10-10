@@ -33,7 +33,6 @@
 Clone or download this repository, then link it globally:
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/git-pulse.git](https://github.com/YOUR_USERNAME/git-pulse.git)
+git clone [https://github.com/terrahubinitiative-sys/gitpulse.git](https://github.com/terrahubinitiative-sys/gitpulse.git)
 cd git-pulse
 npm link
-
