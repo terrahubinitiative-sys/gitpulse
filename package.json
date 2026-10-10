@@ -1,0 +1,21 @@
+{
+  "name": "git-pulse",
+  "version": "1.0.0",
+  "description": "A lightning-fast terminal workflow manager for Git repositories.",
+  "main": "index.js",
+  "bin": {
+    "gitpulse": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "git",
+    "cli",
+    "developer-tools",
+    "workflow"
+  ],
+  "author": "Ezra Wanyama",
+  "license": "MIT",
+  "dependencies": {}
+}
